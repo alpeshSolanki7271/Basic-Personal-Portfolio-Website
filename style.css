@@ -94,7 +94,7 @@ header .navbar li .active,header .navbar a:hover {
   /* background: url(images/background.png) no-repeat; */
   /* background: url(img/bg.jpg) no-repeat; */
   /* background: url(img/toon/bg.jpg) no-repeat; */
-  background: url(img/toon/bg.jpg) no-repeat;
+  background: url(img/toon/bg.png) no-repeat;
   background-size: cover;
   background-position: right center;
 }
